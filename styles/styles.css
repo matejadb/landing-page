@@ -149,3 +149,31 @@
   font-size: 24px;
   font-weight: bold;
 }
+
+/* ACTION SECTION */
+
+.action-container {
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-section {
+  background-color: #3882f6;
+  width: 60%;
+  padding: 50px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.action-section button {
+  padding: 10px;
+  width: 120px;
+  border-radius: 10px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  font-weight: bold;
+  border: 2px solid #f9faf8;
+}
