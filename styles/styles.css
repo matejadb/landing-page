@@ -89,6 +89,7 @@
   flex-direction: column;
   align-items: center;
   gap: 50px;
+  height: 40vh;
 }
 
 .information-title {
@@ -120,4 +121,31 @@
 .box-text {
   text-align: center;
   color: #aaacaf;
+}
+
+/* QUOTE SECTION */
+
+.quote-container {
+  margin-top: 40px;
+  background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.quote-text {
+  font-size: 36px;
+  color: #1f2937;
+  font-style: italic;
+  width: 70%;
+}
+
+.quote-signature {
+  width: 70%;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 24px;
+  font-weight: bold;
 }
