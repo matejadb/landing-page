@@ -7,7 +7,8 @@ Welcome! This is my solution to [The Odin Project](https://www.theodinproject.co
 
 ## Table of Contents
 
--[Live Preview](#live-preview) -[Credits](#credits)
+- [Live Preview](#live-preview)
+- [Credits](#credits)
 
 # Live Preview
 
