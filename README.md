@@ -16,4 +16,4 @@ Check out the live preview of my solution on [this](https://matejadb.github.io/l
 
 # Credits
 
-Hero photo by [Oleksandr](Phttps://www.pexels.com/photo/white-and-blue-passenger-airplane-aerial-photography-1004584/)
+Hero photo by [OleksandrP](https://www.pexels.com/photo/white-and-blue-passenger-airplane-aerial-photography-1004584/)
