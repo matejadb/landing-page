@@ -79,6 +79,7 @@
 .hero-image {
   height: 300px;
   width: 600px;
+  overflow: hidden;
 }
 
 /* INFORMATION SECTION */
