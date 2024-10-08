@@ -84,12 +84,11 @@
 /* INFORMATION SECTION */
 
 .information-container {
-  margin-top: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 50px;
-  height: 40vh;
+  margin-top: 40px;
 }
 
 .information-title {
@@ -126,13 +125,13 @@
 /* QUOTE SECTION */
 
 .quote-container {
-  margin-top: 40px;
-  background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 40vh;
+  background-color: #e5e7eb;
+  margin-top: 40px;
+  padding: 60px;
 }
 
 .quote-text {
@@ -153,10 +152,10 @@
 /* ACTION SECTION */
 
 .action-container {
-  height: 40vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 70px;
 }
 
 .action-section {
@@ -166,6 +165,14 @@
   border-radius: 10px;
   display: flex;
   justify-content: space-around;
+}
+
+.action-text {
+  color: #e5e7eb;
+}
+
+.action-text h2 {
+  font-weight: bold;
 }
 
 .action-section button {
@@ -185,7 +192,7 @@
   justify-content: center;
   align-items: center;
   background-color: #1f2937;
-  height: 10vh;
+  padding: 30px;
 }
 
 .footer-text {
